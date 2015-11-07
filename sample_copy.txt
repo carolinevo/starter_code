@@ -1,12 +1,12 @@
 
-Sample Content
+Sample Content Example from FEWD Week 1
 ——-
 
 ABOUT ME PAGE
 
-I ENJOY LIFE AS A DEVELOPER
+I work in the Advertising world!
 
-I'm Joe Johnson, a Developer based in NYC. I Have ten years of experience in the graphic design world, specializing in the creation of responsive websites.
+My name is Caroline and all of the information below is only an example for reference; not accurate :)
 
 
 RESUME PAGE
